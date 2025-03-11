@@ -31,7 +31,7 @@ footer {
 
 .ind {
     display:flex;
-    justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
     width:800px;
 }

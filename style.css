@@ -1,0 +1,41 @@
+
+
+
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: blueviolet;
+    border-radius: 10px;
+    padding:10px;
+    display: flex;
+    justify-content: center;
+}
+
+header a{
+    text-decoration: none;
+    color:white;
+  
+}
+
+header a:hover {
+color:yellowgreen ;
+}
+
+footer {
+   background-color: blueviolet;
+    border-radius: 30px;
+    padding:10px; 
+}
+
+.ind {
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.h:hover {
+color:blueviolet;
+transition:all 2s linear;
+}

@@ -33,7 +33,7 @@ footer {
     display:flex;
     justify-content: center;
     flex-wrap: wrap;
-    width:800px;
+    width:300px;
 }
 
 .h:hover {
